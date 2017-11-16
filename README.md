@@ -1,4 +1,4 @@
-![mordred](https://ws2.sinaimg.cn/large/006tKfTcgy1flk9er9wc1j31jk0go0t8.jpg)
+![mordred](https://user-images.githubusercontent.com/8784712/32894613-3c8231b6-cb18-11e7-955a-26f3db15ee69.png)
 
 <p align="center">
   Coming soon, the knight of static website generator, using webpack and modern web frameworks.
